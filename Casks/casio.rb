@@ -1,6 +1,6 @@
 cask "casio" do
   version "0.0.1"
-  sha256 "80dde4821c6d4de10b8f1d2c4ee854101935b4c15e7477e18d53bf462e8a0fea"
+  sha256 "364b45919e712d5ad63f8ad779d73280e8d9fac1dcc2331e3f7596314714a65e"
 
   url "https://github.com/junnjiee/casio/releases/download/v#{version}/casio-#{version}.zip"
   name "Casio"
