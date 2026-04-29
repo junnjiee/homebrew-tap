@@ -1,10 +1,10 @@
 cask "casio" do
   version "0.0.1"
-  sha256 "364b45919e712d5ad63f8ad779d73280e8d9fac1dcc2331e3f7596314714a65e"
+  sha256 "64d66a9edae9151b752c53d91c2af8dbd42498da71f9f970a0d605be1fef95c4"
 
   url "https://github.com/junnjiee/casio/releases/download/v#{version}/casio-#{version}.zip"
   name "Casio"
-  desc "Menu bar timer for macOS"
+  desc "Simple pomodoro timer and stopwatch for your Mac menubar. Saves sessions to Apple Calendar"
   homepage "https://github.com/junnjiee/casio"
 
   app "casio.app"
